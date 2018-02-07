@@ -1,1 +1,65 @@
-skldjkfdsafdsafdsafdsaf:
+    1  git config --global user.name zheng
+    2  git config --global user.email 422390650@qq.com
+    3  git congfig --list
+    4  git config --list
+    5  clear
+    6  git init
+    7  rm -rf .git
+    8  mkdir git-project
+    9  clear
+   10  cd git-project/
+   11  cd d:
+   12  cd ..
+   13  cd ~/Desktop/git-project
+   14  git init
+   15  ls -al
+   16  touch 1.txt
+   17  cat 1.txt
+   18  vi 1.txt
+   19  vi 1.txt
+   20  vi 1.txt
+   21  cat 1.txt
+   22  touch 2.txt
+   23  ls -al
+   24  ls
+   25  vi 2.txt
+   26  cat 2.txt
+   27  git status
+   28  git add .
+   29  git status
+   30  git commit -m"init commit"
+   31  git status
+   32  git log
+   33  vi 1.txt
+   34  git diff
+   35  git diff master
+   36  git diff --cached
+   37  git add .
+   38  git diff --cached
+   39  git commit -m"add node"
+   40  git log
+   41  git status'
+clear
+   42  git status
+   43  git status
+   44  clear
+   45  git status
+   46  vi 1.txt
+   47  git stutas
+   48  git status
+   49  cat 1.txt
+   50  vi 1.txt
+   51  git add .
+   52  git status 
+   53  git checkout .
+   54  cat 1.txt
+   55  git status
+   56  git reset HEAD 1.txt
+   57  git stutas
+   58  git status
+   59  cat 1.txt
+   60  history > 1.txt
+   61  git checkout .
+   62  cat 1.txt
+   63  git status
+   64  history > 2.txt
